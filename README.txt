@@ -9,4 +9,5 @@ Here's the simplest way to try it out on your pc locally.
 5. start your browser (if your preferred browser fails, try chrome/chromium as browser),
    and surf to http://localhost:8000
 
-
+Alternatively, you can try it out online (but this may be an older version): 
+stefaanhimpe.pythonanywhere.com/euclidean/static/index.html
