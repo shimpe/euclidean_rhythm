@@ -10,4 +10,4 @@ Here's the simplest way to try it out on your pc locally.
    and surf to http://localhost:8000
 
 Alternatively, you can try it out online (but this may be an older version): 
-stefaanhimpe.pythonanywhere.com/euclidean/static/index.html
+https://stefaanhimpe.pythonanywhere.com/euclidean/static/index.html
